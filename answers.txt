@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is standard in the industry and is a nice way of keeping your projects organized.
+
